@@ -1,2 +1,3 @@
-add(1,80)
-subtract(60,40)
+addition=add(1,80)
+subtraction=subtract(60,40)
+console.output(addition)
