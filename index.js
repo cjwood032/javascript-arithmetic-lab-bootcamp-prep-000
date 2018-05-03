@@ -1,4 +1,4 @@
 var addition=add(a,b)
-var subtraction=subtract(60,40)
-var multiplication = multiply(2,3.4)
-var division = divide (5.0,2.5)
+var subtraction=subtract(a,b)
+var multiplication = multiply(a,b)
+var division = divide (a,b)
